@@ -16,6 +16,7 @@
 
 #pragma once
 
+#include <fstream>
 #include "AstTypes.h"
 #include "CompiledRamOptions.h"
 #include "CompiledRamRecord.h"
@@ -28,7 +29,6 @@
 
 #include <array>
 #include <cmath>
-#include <fstream>
 #include <iostream>
 #include <map>
 #include <regex>
