@@ -16,6 +16,7 @@
 
 #pragma once
 
+#include <fstream>
 #include "AstTypes.h"
 #include "CompiledRamOptions.h"
 #include "CompiledRamRecord.h"
